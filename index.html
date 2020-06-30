@@ -36,11 +36,14 @@
 
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
-          ['0', 'Temperature'],
-          ['0',  1000],
-          ['0',  1170],
-          ['0',  660],
-          ['0',  1030]
+          ['-', 'Temperature'],
+          ['°C',  -20],
+          ['°C',  -10],
+          ['°C',  0],
+          ['°C',  10],
+          ['°C', 30],
+          ['°C', 50],
+          ['°C', 45]
         ]);
 
         var options = {
@@ -63,11 +66,13 @@
 
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
-          ['0', 'Humidity'],
-          ['0',  1000],
-          ['0',  1170],
-          ['0',  660],
-          ['0',  1030]
+          ['-', 'Humidity'],
+          ['%',  0],
+          ['%',  10],
+          ['%',  20],
+          ['%',  50],
+          ['%', 70],
+          ['%', 80]
         ]);
 
         var options = {
@@ -89,11 +94,12 @@
 
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
-          ['0', 'Gas'],
-          ['0',  1000],
-          ['0',  1170],
-          ['0',  660],
-          ['0',  1030]
+          ['', 'Gas'],
+          ['',  0],
+          ['',  20],
+          ['',  40],
+          ['',  60],
+          ['', 80]
         ]);
 
         var options = {
