@@ -9,6 +9,6 @@ Web page with statistics - https://github.com/alexandra0292/alexandra0292.github
 
 Telegram bot - https://github.com/Junumboxo/IoT-Bootcamp-project-Telegram
 
-Local MQTT server - https://github.com/mdiannna/MQTT_Server_Smart_Home
+Local MQTT server - https://github.com/rms11-source/Smart-Home
 
 AI - https://github.com/Junumboxo/IoT-project-bootcamp-AI
